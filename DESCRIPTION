@@ -1,0 +1,17 @@
+Package: shinylightbox
+Type: Package
+Title: R Interface to Lightbox.
+Version: 0.1.0
+Authors@R: c(
+  person("Johnson", "Matt", role = c("aut")),
+  person("Dumke", "Markus", email = "markusdumke@gmail.com", role = c("aut", "cre"))
+  )
+Maintainer: Dumke Markus <markusdumke@gmail.com>
+Description: R Interface to Lightbox.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Imports: 
+    shiny
